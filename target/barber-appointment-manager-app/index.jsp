@@ -22,52 +22,89 @@
 
 <div class="modal-dialog">
     <div class="modal-content">
-        <div class="modal-header">
-            <h1 class="modal-title fs-5" id="exampleModalLabel">Barber Appointment Setter</h1>
-            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="modal-body">
-            <form>
+        <form action="index.jsp" method="post">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5">Barber Appointment Setter</h1>
+            </div>
+            <div class="modal-body">
+
 
                 <div class="mb-3">
-                    <label  class="form-label">Barber</label>
-                    <select id="form-select" class="form-select">
+                    <label class="form-label">Barber</label>
+                    <select id="form-select" class="form-select" name="barber">
                         <option>Select Barber</option>
                     </select>
                 </div>
 
                 <div class="mb-3">
-                    <label for="exampleInputEmail1" class="form-label">Date</label>
-                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                    <label class="form-label">Date</label>
+                    <input type="text" class="form-control" name="date">
                 </div>
                 <div class="mb-3">
-                    <label  class="form-label">Name</label>
-                    <input type="password" class="form-control" >
-                </div>
-
-                <div class="mb-3">
-                    <label  class="form-label">Phone</label>
-                    <input type="password" class="form-control"">
+                    <label class="form-label">Name</label>
+                    <input type="text" class="form-control" name="name">
                 </div>
 
                 <div class="mb-3">
-                    <label  class="form-label">Gender</label>
-                    <select  class="form-select">
+                    <label class="form-label">Phone</label>
+                    <input type="text" class="form-control" name="phone">
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Gender</label>
+                    <select class="form-select" name="gender">
                         <option>Select Gender</option>
                     </select>
                 </div>
 
-                <button type="submit" class="btn btn-primary">Submit</button>
+                <div class="mb-3">
+                    <label class="form-label">Notes</label>
+                    <textarea class="form-control" name="notes"></textarea>
+                </div>
 
 
-            </form>
-        </div>
-        <div class="modal-footer">
-            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-            <button type="button" class="btn btn-primary">Save changes</button>
-        </div>
+            </div>
+            <div class="modal-footer">
+                <button type="submit" class="btn btn-primary" name="send">Submit</button>
+                <!-- <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button> -->
+            </div>
+
+        </form>
     </div>
-</div>
+
+    <% String date = request.getParameter("date");
+    String name = request.getParameter("name");
+    String notes = request.getParameter("notes");
+
+%>
+
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5">Appointments</h1>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title"> <%=date%> </h5>
+                            <h6 class="card-subtitle mb-2 text-muted"><%=name%></h6>
+                            <p class="card-text"><%=notes%></p>
+                            <p class="blackquote-footer"></p>
+                            <a href="#" class="card-link">Edit</a>
+                            <a href="#" class="card-link">Delete</a>
+
+                        </div>
+                    </div>
+
+
+                </form>
+            </div>
+
+        </div>
+
+
+    </div>
 
 </body>
 </html>
