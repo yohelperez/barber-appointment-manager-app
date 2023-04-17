@@ -2,5 +2,5 @@ projectKey=barber-appointment-manager-app
 serverUrl=http://localhost:9000
 serverVersion=8.9.10.61524
 dashboardUrl=http://localhost:9000/dashboard?id=barber-appointment-manager-app
-ceTaskId=AYZi0uDGtFTj8Ob3NDmw
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYZi0uDGtFTj8Ob3NDmw
+ceTaskId=AYeO8F1UeZ4KvqvxaLxK
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYeO8F1UeZ4KvqvxaLxK
