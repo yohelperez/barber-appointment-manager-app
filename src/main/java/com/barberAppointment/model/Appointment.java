@@ -12,5 +12,5 @@ public class Appointment {
     private Date time;
     private BigDecimal price;
 
-    //todo create constructors, getters, setters, to string
+
 }
