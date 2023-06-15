@@ -11,7 +11,7 @@ The Barber Appointment App is a web application designed to streamline the appoi
 * Responsive Design: The app is designed to be responsive, ensuring a seamless user experience across various devices and screen sizes.
 
 ### Technologies Used
-* Front-end: HTML, CSS, JavaScript, Bootstrap
+* Front-end: HTML, CSS, JSP, Bootstrap
 * Back-end: Java, Maven
 * Database: MySQL
 * Deployment: Apache Tomcat
