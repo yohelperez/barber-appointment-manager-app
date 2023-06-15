@@ -5,10 +5,10 @@
 The Barber Appointment App is a web application designed to streamline the appointment booking process for barbershops. It provides a convenient platform for both barbers and customers to manage and schedule appointments effectively.
 
 ### Key Features
-Appointment Scheduling: Customers can easily book appointments with their preferred barbers by selecting the desired date and time slot available. They can also add notes regarding their appointment.
-Barber Management: Barbers can manage their availability and view their upcoming appointments, allowing them to plan their schedule accordingly.
-Customer Management: The app maintains a customer database, allowing barbers to access customer information and provide personalized services.
-Responsive Design: The app is designed to be responsive, ensuring a seamless user experience across various devices and screen sizes.
+* Appointment Scheduling: Customers can easily book appointments with their preferred barbers by selecting the desired date and time slot available. They can also add notes regarding their appointment.
+* Barber Management: Barbers can manage their availability and view their upcoming appointments, allowing them to plan their schedule accordingly.
+* Customer Management: The app maintains a customer database, allowing barbers to access customer information and provide personalized services.
+* Responsive Design: The app is designed to be responsive, ensuring a seamless user experience across various devices and screen sizes.
 
 ### Technologies Used
 * Front-end: HTML, CSS, JavaScript, Bootstrap
