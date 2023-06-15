@@ -3,6 +3,12 @@ n	java:S120"ZRename this package name to match the regular expression '^[a-z_
 O
 java:S1118":Add a private constructor to hide the implicit public one.(û‘ç\
 H
+<<<<<<< HEAD
 java:S1905"-Remove this unnecessary cast to "Connection".(◊ı∑ç˝ˇˇˇˇ
 Q
 java:S6437"
+=======
+java:S1905"-Remove this unnecessary cast to "Connection".(◊ı∑ç˝ˇˇˇˇ
+Q
+java:S6437"6Revoke and change this password, as it is compromised.(◊ı∑ç˝ˇˇˇˇ
+>>>>>>> ffd344062f208cf85cb1a971934ad249d5442d5e
