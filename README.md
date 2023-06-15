@@ -11,10 +11,10 @@ Customer Management: The app maintains a customer database, allowing barbers to 
 Responsive Design: The app is designed to be responsive, ensuring a seamless user experience across various devices and screen sizes.
 
 ### Technologies Used
-Front-end: HTML, CSS, JavaScript, Bootstrap
-Back-end: Java, Maven
-Database: MySQL
-Deployment: Apache Tomcat
+* Front-end: HTML, CSS, JavaScript, Bootstrap
+* Back-end: Java, Maven
+* Database: MySQL
+* Deployment: Apache Tomcat
 
 ### Installation and Setup
 Clone the repository.
