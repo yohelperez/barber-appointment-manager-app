@@ -17,7 +17,7 @@ public class Appointment {
     private LocalTime time;
     private BigDecimal price;
 
-<<<<<<< HEAD
+
     public Appointment() {
     }
 
@@ -120,7 +120,5 @@ public class Appointment {
                 ", price=" + price +
                 '}';
     }
-=======
 
->>>>>>> ffd344062f208cf85cb1a971934ad249d5442d5e
 }
