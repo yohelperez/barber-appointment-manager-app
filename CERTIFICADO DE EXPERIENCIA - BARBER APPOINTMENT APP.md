@@ -1,5 +1,7 @@
 # CERTIFICADO DE EXPERIENCIA: BARBER APPOINTMENT APP
-
+<br>
+<br>
+<br>
 Este certificado reconoce la experiencia adquirida durante la participación de **YOHEL OSVALDO PEREZ GARCIA** identificado con cédula de ciudadanía **1.035.921.408** en el desarrollo e implementación exitosa de la Barber Appointment App. A continuación, se detallan los aspectos clave del proyecto:
 
 ## Información del Proyecto
@@ -33,6 +35,7 @@ Durante el desarrollo del proyecto, se lograron los siguientes resultados signif
 - Implementación eficiente de la lógica de negocio y la gestión de datos.
 - Adquisición de habilidades sólidas en el desarrollo de aplicaciones web con Java, Apache Tomcat y MySQL.
  
+<br>
 <br>
 <br>
 
