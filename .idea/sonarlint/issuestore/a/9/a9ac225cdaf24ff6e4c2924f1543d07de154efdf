@@ -1,4 +1,20 @@
 
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®—€¢ýÿÿÿÿ
-N	java:S106
-"9Replace this use of System.out or System.err by a logger.(êÜ‚¹
+‰
+java:S1130"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(Š¯çúûÿÿÿÿ
+Œ
+java:S1130"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(Š¯çúûÿÿÿÿ
+P
+java:S6213":Rename this variable to not match a restricted identifier.(’¼æÏ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(­Œ¼ÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­Œ¼ÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ôüî´þÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(»¨Ïƒþÿÿÿÿ
+V	java:S125""<This block of commented-out lines of code should be removed.(¬±þÊÿÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(Ç†ÍÁ
+Q	java:S125)"<This block of commented-out lines of code should be removed.(ûÔ·Æ
+M
+java:S1135,"2Complete the task associated to this TODO comment.(ì„¾ûüÿÿÿÿ
+`
+java:S1128"ERemove this unused import 'com.barberAppointment.model.ConnectionDB'.(·©¦¥ûÿÿÿÿ

@@ -1,14 +1,8 @@
 
-n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬ğğ[
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬ğğ[8×ôƒ1
+V
+java:S1118":Add a private constructor to hide the implicit public one.(Ô\8ïôƒ1
 O
-java:S1118":Add a private constructor to hide the implicit public one.(Ô\
-H
-<<<<<<< HEAD
-java:S1905"-Remove this unnecessary cast to "Connection".(×õ·ıÿÿÿÿ
-Q
-java:S6437"
-=======
-java:S1905"-Remove this unnecessary cast to "Connection".(×õ·ıÿÿÿÿ
-Q
-java:S6437"6Revoke and change this password, as it is compromised.(×õ·ıÿÿÿÿ
->>>>>>> ffd344062f208cf85cb1a971934ad249d5442d5e
+java:S1905"-Remove this unnecessary cast to "Connection".(×õ·ıÿÿÿÿ8üôƒ1
+X
+java:S6437"6Revoke and change this password, as it is compromised.(×õ·ıÿÿÿÿ8õƒ1

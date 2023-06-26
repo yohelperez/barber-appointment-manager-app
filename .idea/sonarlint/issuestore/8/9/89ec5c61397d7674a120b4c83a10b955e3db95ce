@@ -1,0 +1,19 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œ¿È4
+Q	java:S125"<This block of commented-out lines of code should be removed.(√ÚÒΩ
+p
+java:S1450"ZRemove the "appointment" field and declare it as a local variable in the relevant methods.(ø∫»π
+S	java:S106."9Replace this use of System.out or System.err by a logger.(≈Óí§˘ˇˇˇˇ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(≈Óí§˘ˇˇˇˇ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(≈Óí§˘ˇˇˇˇ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(≈Óí§˘ˇˇˇˇ
+a
+java:S1858j"?"getId" returns a string, there's no need to call "toString()".(Ÿê˝¿˛ˇˇˇˇ8≤‚—›ã1
+Z	java:S106n"9Replace this use of System.out or System.err by a logger.(≈Óí§˘ˇˇˇˇ8 ìπ›ã1
+Z	java:S106v"9Replace this use of System.out or System.err by a logger.(≈Óí§˘ˇˇˇˇ8Àìπ›ã1
+[	java:S106â"9Replace this use of System.out or System.err by a logger.(≈Óí§˘ˇˇˇˇ8˚⁄êﬂã1
+[	java:S106ë"9Replace this use of System.out or System.err by a logger.(≈Óí§˘ˇˇˇˇ8¸⁄êﬂã1
+R
+java:S1128"5Remove this unused import 'java.text.ParseException'.(ÒÆÔï8∞≈˝àå1
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(∏Öº¸8±≈˝àå1

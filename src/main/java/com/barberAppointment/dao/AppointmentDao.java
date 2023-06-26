@@ -24,7 +24,7 @@ public class AppointmentDao {
         String sql = "SELECT * FROM appointment";
         List<Appointment> appointments = new ArrayList<>();
         try {
-            this.connection = getConnectionDB();
+            this.connection = getConnectionDB();        //static method from ConnectionDB
             this.ps = this.connection.prepareStatement(sql); //To prepare the SQL query
             this.rs = this.ps.executeQuery(); //to get the result of the query execution
 
