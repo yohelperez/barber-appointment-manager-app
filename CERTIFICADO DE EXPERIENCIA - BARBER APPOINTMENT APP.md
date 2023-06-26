@@ -2,7 +2,8 @@
 <br>
 <br>
 <br>
-Este certificado reconoce la experiencia adquirida durante la participación de **YOHEL OSVALDO PEREZ GARCIA** identificado con cédula de ciudadanía **1.035.921.408** en el desarrollo e implementación exitosa de la Barber Appointment App. A continuación, se detallan los aspectos clave del proyecto:
+
+Este certificado reconoce la experiencia adquirida durante la participación de **YOHEL OSVALDO PEREZ GARCIA** identificado con cédula de ciudadanía **1035921408** en el desarrollo e implementación exitosa de la Barber Appointment App. A continuación, se detallan los aspectos clave del proyecto:
 
 ## Información del Proyecto
 
